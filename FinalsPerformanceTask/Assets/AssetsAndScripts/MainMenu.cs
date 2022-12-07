@@ -20,7 +20,7 @@ public class MainMenu : MonoBehaviour
     {
         if (Input.GetKey(KeyCode.E))
         {
-            SceneManager.LoadScene("Playground");
+            SceneManager.LoadScene("Scene");
         }
     }
 }
